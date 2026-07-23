@@ -13,8 +13,8 @@ An Interactive Business Intelligence Dashboard for Food Delivery Operations Anal
 ![DAX](https://img.shields.io/badge/DAX-Analytics-blue?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-green?style=for-the-badge)
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle)
-![GitHub](https://img.shields.io/github/license/YOUR_USERNAME/FoodPulse-AI-PowerBI?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/FoodPulse-AI-PowerBI?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/vishalmoota/FoodPulse-AI-PowerBI?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/vishalmoota/FoodPulse-AI-PowerBI?style=for-the-badge)
 
 </p>
 
