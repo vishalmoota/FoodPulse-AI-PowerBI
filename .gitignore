@@ -1,0 +1,15 @@
+# Power BI temporary files
+*.pbix.autosave
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
