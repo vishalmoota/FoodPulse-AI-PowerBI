@@ -1335,11 +1335,14 @@ We would like to sincerely thank
 
 # 📬 Contact
 
-**Developer:** Vishal Moota
+**Developers:** Vishal Moota, Omkar Mahadik
 
 📧 Email: vishalmoota2005@gmail.com
+📧 Email: omkarmahadik180@gmail.com
+
 
 🔗 GitHub: https://github.com/vishalmoota
+🔗 GitHub: https://github.com/OmkarM9090
 
 ---
 
