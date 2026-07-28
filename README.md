@@ -283,8 +283,9 @@ Images/dashboard-analysis.png
 ```
 FoodPulse-AI-PowerBI
 │
-├── Dashboard
-│   └── FoodPulse AI.pbix
+│── Dashboard
+│   ├── FoodPulse AI.pbix
+│   └── FoodPulse AI.pbit
 │
 ├── Dataset
 │   └── food_delivery_dataset_completed.csv
@@ -300,6 +301,35 @@ FoodPulse-AI-PowerBI
 │
 └── .gitignore
 ```
+
+---
+---
+
+# 📥 Power BI Files
+
+This repository contains both the complete Power BI project and a reusable Power BI Template.
+
+| File | Description |
+|------|-------------|
+| 📊 **FoodPulse AI.pbix** | Complete Power BI project including dashboard, DAX measures, data model and visuals. |
+| 📄 **FoodPulse AI.pbit** | Power BI Template file for sharing the dashboard without embedded data. |
+
+## 🚀 Why a Power BI Template?
+
+The `.pbit` file is the recommended way to distribute Power BI projects because it:
+
+- ✅ Removes embedded dataset
+- ✅ Reduces file size
+- ✅ Protects sensitive data
+- ✅ Allows users to connect their own dataset
+- ✅ Makes dashboard sharing easier
+
+### How to Use
+
+1. Download **FoodPulse AI.pbit**
+2. Open it using **Microsoft Power BI Desktop**
+3. When prompted, browse and select the dataset.
+4. Power BI automatically recreates the complete dashboard.
 
 ---
 
