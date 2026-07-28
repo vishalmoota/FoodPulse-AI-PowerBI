@@ -79,51 +79,21 @@ The project demonstrates the complete Business Intelligence lifecycle including:
 - Business Insight Generation
 
 ---
+# Problem Statement
+Food delivery companies generate thousands of records every day. Without Business Intelligence tools, it becomes difficult to answer questions like: - Which restaurants generate the highest revenue? - Which cities have longer delivery times? - Which payment method is preferred by customers? - Which food category receives the highest number of orders? - How does revenue change over time? - Which restaurants need operational improvements? Traditional spreadsheets make this analysis time-consuming. Our solution was to build an interactive dashboard capable of answering these business questions instantly. 
 
-# ❗ Problem Statement
-
-Food delivery companies generate thousands of records every day.
-
-Without Business Intelligence tools, it becomes difficult to answer questions like:
-
-- Which restaurants generate the highest revenue?
-- Which cities have longer delivery times?
-- Which payment method is preferred by customers?
-- Which food category receives the highest number of orders?
-- How does revenue change over time?
-- Which restaurants need operational improvements?
-
-Traditional spreadsheets make this analysis time-consuming.
-
-Our solution was to build an interactive dashboard capable of answering these business questions instantly.
-
----
-
-# 🎯 Project Objectives
-
-The primary objectives of this project are:
-
-✔ Analyze overall business performance
-
-✔ Monitor Total Revenue
-
-✔ Track Total Orders
-
-✔ Measure Customer Satisfaction
-
-✔ Analyze Delivery Efficiency
-
-✔ Compare Restaurant Performance
-
-✔ Study Food Category Demand
-
-✔ Analyze Payment Preferences
-
-✔ Enable Interactive Filtering
-
+# 🎯 Project Objectives The primary objectives of this project are: 
+✔ Analyze overall business performance 
+✔ Monitor Total Revenue 
+✔ Track Total Orders 
+✔ Measure Customer Satisfaction 
+✔ Analyze Delivery Efficiency 
+✔ Compare Restaurant Performance 
+✔ Study Food Category Demand 
+✔ Analyze Payment Preferences 
+✔ Enable Interactive Filtering 
 ✔ Provide Business Insights for Better Decision Making
 
----
 
 # 🌍 Business Impact
 
